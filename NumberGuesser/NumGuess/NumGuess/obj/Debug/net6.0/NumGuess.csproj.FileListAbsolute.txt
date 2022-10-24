@@ -1,0 +1,15 @@
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\bin\Debug\net6.0\NumGuess.exe
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\bin\Debug\net6.0\NumGuess.deps.json
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\bin\Debug\net6.0\NumGuess.runtimeconfig.json
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\bin\Debug\net6.0\NumGuess.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\bin\Debug\net6.0\NumGuess.pdb
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\NumGuess.csproj.AssemblyReference.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\NumGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\NumGuess.AssemblyInfoInputs.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\NumGuess.AssemblyInfo.cs
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\NumGuess.csproj.CoreCompileInputs.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\NumGuess.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\refint\NumGuess.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\NumGuess.pdb
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\NumGuess.genruntimeconfig.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\NumberGuesser\NumGuess\NumGuess\obj\Debug\net6.0\ref\NumGuess.dll

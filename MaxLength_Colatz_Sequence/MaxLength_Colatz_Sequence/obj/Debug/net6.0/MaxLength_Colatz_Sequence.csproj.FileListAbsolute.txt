@@ -1,0 +1,15 @@
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\bin\Debug\net6.0\MaxLength_Colatz_Sequence.exe
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\bin\Debug\net6.0\MaxLength_Colatz_Sequence.deps.json
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\bin\Debug\net6.0\MaxLength_Colatz_Sequence.runtimeconfig.json
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\bin\Debug\net6.0\MaxLength_Colatz_Sequence.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\bin\Debug\net6.0\MaxLength_Colatz_Sequence.pdb
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\MaxLength_Colatz_Sequence.csproj.AssemblyReference.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\MaxLength_Colatz_Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\MaxLength_Colatz_Sequence.AssemblyInfoInputs.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\MaxLength_Colatz_Sequence.AssemblyInfo.cs
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\MaxLength_Colatz_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\MaxLength_Colatz_Sequence.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\refint\MaxLength_Colatz_Sequence.dll
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\MaxLength_Colatz_Sequence.pdb
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\MaxLength_Colatz_Sequence.genruntimeconfig.cache
+C:\Users\rotun\Desktop\Work_Codes\C#_Apps\Programs\MaxLength_Colatz_Sequence\MaxLength_Colatz_Sequence\obj\Debug\net6.0\ref\MaxLength_Colatz_Sequence.dll
